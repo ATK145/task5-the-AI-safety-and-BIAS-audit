@@ -115,9 +115,9 @@ git push -u origin main
 
 ## 👤 Author
 
-**[Your Name]** — DecodeLabs AI Bootcamp  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR-USERNAME)
+  Aisha Tariq Khan — DecodeLabs AI Bootcamp  
+📧 aisha.tariq.khan1@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aisha-tariq-khan/) | [GitHub](https://github.com/ATK145)
 
 ---
 
@@ -127,4 +127,4 @@ MIT License — Feel free to use and adapt for educational purposes.
 
 ---
 
-*© 2025 DecodeLabs · AI Safety & Bias Audit · Task 5*
+*© 2026 DecodeLabs · AI Safety & Bias Audit · Task 5*
